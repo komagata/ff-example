@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require insert_at_caret
+//= require jquery.insert_at_caret
+//= require jquery.facebox
 //= require_tree .
